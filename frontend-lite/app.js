@@ -1,5 +1,5 @@
 // Use the same host you're visiting, on port 3000 (backend)
-const API_BASE = `https://emailpms-validation.netlify.app/`;
+const API_BASE = `http://emailpmsvalidation.vercel.app/`;
 
 function debounce(fn, ms) {
   let t;
