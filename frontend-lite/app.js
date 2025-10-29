@@ -1,5 +1,5 @@
 // Use the same host you're visiting, on port 3000 (backend)
-const API_BASE = `${location.protocol}//${location.hostname}:3000`;
+const API_BASE = `https://emailpms-validation.netlify.app/`;
 
 function debounce(fn, ms) {
   let t;
